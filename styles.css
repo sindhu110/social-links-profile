@@ -27,11 +27,11 @@
   
   .container {
     background-color: var(--color-grey-800);
-    padding: 2rem;
+    padding: 1.5rem;
     border-radius: var(--border-radius);
     text-align: center;
     width: 100%;
-    max-width: 600px;
+    max-width: 650px;
   }
   
   .profile-img {
