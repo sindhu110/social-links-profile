@@ -31,7 +31,7 @@
     border-radius: var(--border-radius);
     text-align: center;
     width: 100%;
-    max-width: 400px;
+    max-width: 600px;
   }
   
   .profile-img {
@@ -43,16 +43,16 @@
   }
   
   .name {
-    font-size: 1.5rem;
+    font-size: 1rem;
     color: var(--color-white);
-    font-weight: 600;
+    font-weight: 700;
     margin-bottom: 0.5rem;
   }
   
   .location {
     font-size: 0.875rem;
     color: var(--color-green);
-    margin-bottom: 1rem;
+    margin-bottom: 1.5rem;
   }
   
   .bio {
@@ -82,7 +82,7 @@
     text-decoration: none;
     padding: 1rem;
     border-radius: var(--border-radius);
-    font-weight: 600;
+    font-weight: 400;
     transition: background-color 0.3s ease, color 0.3s ease;
   }
   
