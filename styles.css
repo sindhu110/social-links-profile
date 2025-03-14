@@ -20,12 +20,12 @@
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    padding: 3rem;
+    padding: 1.5rem;
   }
   
   .container {
     background-color: var(--color-grey-800);
-    padding: 1.5rem;
+    padding: 2.5rem;
     border-radius: var(--border-radius);
     text-align: center;
     width: 120%;
@@ -43,19 +43,20 @@
   .name {
     font-size: 1.5rem;
     color: var(--color-white);
-    font-weight: 700;
+    font-weight: 400;
     margin-bottom: 0.5rem;
   }
   
   .location {
-    font-size: 0.875rem;
+    font-size: 1rem;
+    font-weight: 700;
     color: var(--color-green);
     margin-bottom: 1.5rem;
   }
   
   .bio {
-    font-size: 0.875rem;
-    color: var(hsl(0, 0%, 90%));
+    font-size: 1rem;
+    color: var(hsl(0, 0%, 100%));
     margin-bottom: 1.5rem;
   }
   
