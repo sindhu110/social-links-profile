@@ -41,7 +41,7 @@
   }
   
   .name {
-    font-size: 1.5rem;
+    font-size: 2rem;
     color: var(--color-white);
     font-weight: 400;
     margin-bottom: 0.5rem;
@@ -56,7 +56,7 @@
   
   .bio {
     font-size: 1rem;
-    color: var(hsl(0, 0%, 100%));
+    color: var(--color-white);
     margin-bottom: 1.5rem;
   }
   
