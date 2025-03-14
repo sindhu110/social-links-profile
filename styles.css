@@ -41,15 +41,15 @@
   }
   
   .name {
-    font-size: 2rem;
+    font-size: 1.5rem;
     color: var(--color-white);
-    font-weight: 400;
+    font-weight: 700;
     margin-bottom: 0.5rem;
   }
   
   .location {
     font-size: 1rem;
-    font-weight: 700;
+    font-weight: 400;
     color: var(--color-green);
     margin-bottom: 1.5rem;
   }
