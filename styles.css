@@ -26,10 +26,10 @@
   .container {
     background-color: var(--color-grey-800);
     padding: 2.5rem;
-    border-radius: 20px;
+    border-radius:--border-radius ;
     text-align: center;
     width: 100%;
-    max-width: 400px;
+    max-width: 2000px;
   }
   
   .profile-img {
